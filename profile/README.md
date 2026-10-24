@@ -11,15 +11,129 @@ https://kda-chain.org/docs/
 Ecosystem directory:
 https://kda-chain.org/ecosystem.html
 
+Source of Truth registry (mirrored):
+https://github.com/kadena-maintained-by-kda-community/releases/tree/main/sot
+
+---
+
+## Active Development & Rebuilding the Stack
+
+KDA-CE is not just keeping the lights on — it is actively rebuilding the developer foundation around Pact and Chainweb. The community is maintaining and improving the entire toolchain developers depend on.
+
+**Core infrastructure**
+- Chainweb node — actively released and patched; see https://github.com/kda-community/chainweb-node
+- Public bootstrap nodes across CA, FR, NL, and PL regions
+- Public mainnet01 and testnet06 APIs at https://api.chainweb-community.org and https://api.testnet.chainweb-community.org
+- Chainweb OpenAPI spec — https://api.chainweb-community.org/openapi/
+
+**Developer tooling**
+- kda-tool — key generation, deployment, and chain queries: https://github.com/kda-community/kda-tool
+- ForkMe Pact IDE — browser-based Pact development: https://ide.forkme.fun/
+- Snapshots — fast node sync: https://snapshots.chainweb-community.org
+- Community tools — https://tools.chainweb-community.org/
+- pact-kit — reference sources and workflow automation for Pact 5 / KDA-CE: https://github.com/Pact-Community-Organization/pact-kit
+- pact-util-lib — community standard library for Pact: https://github.com/CryptoPascal31/pact-util-lib
+
+**Documentation & migration**
+- Community docs — https://kda-chain.org/docs/
+- Pact 4 → 5 migration path documented in the community docs
+- pact-util-lib reference — https://pact-util-lib.readthedocs.io/en/beta_0.11/
+
+**AI-assisted development**
+- Native MCP tools for KDA-CE, enabling instant prototyping and testing on Chainweb and Pact
+
+---
+
+## Community-Led Governance
+
+Kadena Community Edition is structured around community-led governance, rather than relying on a single company. The network is governed by a community-led DAO.
+
+**What the DAO decides**
+- Protocol upgrades and network parameters
+- Ecosystem funding priorities
+- Treasury allocation and grants
+- Standards and KIP adoption
+
+**How it operates**
+- Proposals are public and discussed in the open
+- Voting is on-chain
+- Voting infrastructure: https://github.com/kda-community/dao-voting
+- Improvement proposals: https://github.com/kda-community/KIPs
+
+**Why it matters**
+- No single point of corporate control
+- Upgrade paths are transparent and community-approved
+- Contributors and node operators have a direct say in the network's direction
+
+---
+
+## Key Repositories
+
+All active development is centered under kda-community. Follow, star, and contribute:
+
+**Core protocol**
+- chainweb-node — Proof-of-Work Chainweb node: https://github.com/kda-community/chainweb-node
+- pact-5 — Pact 5 language and runtime (authoritative for Pact 5.4ce): https://github.com/kda-community/pact-5
+- devnet — local development network: https://github.com/kda-community/devnet
+- testnet06 — testnet bootstrap and tooling: https://github.com/kda-community/testnet06
+
+**Tooling & docs**
+- kda-tool — CLI for keys, deploys, and queries: https://github.com/kda-community/kda-tool
+- kadena-docs-new — official KDA-CE documentation source: https://github.com/kda-community/kadena-docs-new
+
+**Governance**
+- KIPs — Kadena Improvement Proposals and standards: https://github.com/kda-community/KIPs
+- dao-voting — community governance and voting: https://github.com/kda-community/dao-voting
+
+**Additional community tooling**
+- pact-kit — https://github.com/Pact-Community-Organization/pact-kit
+- pact-util-lib — https://github.com/CryptoPascal31/pact-util-lib
+
+---
+
+## Get Building
+
+Kadena is live, and the community is building the next chapter.
+
+**For developers**
+1. Read the docs: https://kda-chain.org/docs/
+2. Clone devnet: https://github.com/kda-community/devnet
+3. Grab the Pact 4 → 5 migration path from the docs
+4. Use kda-tool to deploy: https://github.com/kda-community/kda-tool
+5. Try ForkMe Pact IDE: https://ide.forkme.fun/
+
+**For node operators**
+1. Get the node: https://github.com/kda-community/chainweb-node
+2. Pull a snapshot to sync fast: https://snapshots.chainweb-community.org
+3. Connect to a bootstrap node from the Canonical Resources list below
+4. Monitor with https://nodes.kadena.ws/
+
+**For miners**
+1. Point your miner at a public bootstrap node
+2. Verify the current network on the explorer: https://explorer.chainweb-community.org/mainnet
+3. See mining setup in the docs: https://kda-chain.org/docs/
+
+**For everyone**
+- Explore the ecosystem: https://kda-chain.org/ecosystem.html
+- Verify any endpoint: https://github.com/kadena-maintained-by-kda-community/releases/tree/main/sot
+- Contribute: fork, star, and open issues in the key repositories above
+
+---
+
+## Community Channels
+
+- GitHub — https://github.com/kda-community
+- X (Twitter) — https://x.com/KdaCed
+- Discord — https://discord.gg/T4mASjRaRr
+- Telegram — https://t.me/+3JzP9i19cM8wOWQ8
+- Medium — https://medium.com/@communitykadena
+- Bluesky — https://bsky.app/profile/kdacommunity.bsky.social
+
 ---
 
 ## Ecosystem — Key Projects
 
 The community ecosystem is growing. Below are the key live projects across each category. For the complete, current list, visit the ecosystem directory: https://kda-chain.org/ecosystem.html
-
-### Explorers
-- Kadena Explorer — https://explorer.chainweb-community.org/mainnet
-- DenaScan — https://denascan.com/
 
 ### Oracles
 - DIA — https://link3.to/dia
@@ -67,67 +181,72 @@ The community ecosystem is growing. Below are the key live projects across each 
 
 ---
 
-## Active Development & Rebuilding the Stack
+## Canonical Resources
 
-KDA-CE is not just keeping the lights on — it is actively rebuilding the developer foundation around Pact and Chainweb. The community is maintaining and improving the entire toolchain developers depend on.
+Source of Truth registry (mirrored):
+https://github.com/kadena-maintained-by-kda-community/releases/tree/main/sot
 
-- Developer Resources & Documentation: Community-managed docs and migration guides, including the canonical Pact 4 → 5 path.
-- Node Infrastructure & Public APIs: Reliable Chainweb node operation and API access independent of former company infrastructure.
-- Wallet Tooling & Testing Environments: Improved tools for wallet interaction, local testing, and deployment.
-- Modern Pact Development Tools: Community-maintained tooling including pact-kit for workflow automation in Pact 5 / KDA-CE development.
-- AI-Assisted Development: Native MCP tools for KDA-CE, enabling instant prototyping and testing on Chainweb and Pact.
+Upstream: https://github.com/AI-KDA-Community/releases/tree/main/sot
 
----
+The registry is machine-readable and covers canonical URLs, deprecated URLs, and live endpoints. It also ships a CLI for verification:
 
-## Community-Led Governance
+- `ai-kda-community check-url <url>` — classify any URL
+- `ai-kda-community bad --json` — list all deprecated resources
+- `ai-kda-community scan` — scan code for deprecated references
+- Install: `brew install ai-kda-community/tap/ai-kda-community`
 
-Kadena Community Edition is structured around community-led governance, rather than relying on a single company. The network is governed by a community-led DAO.
+### Organizations
+- https://github.com/kda-community — kda-community org
+- https://github.com/kda-community/chainweb-node — chainweb-node
+- https://github.com/kda-community/kadena-docs-new — kadena-docs source
+- https://github.com/kda-community/pact-5 — pact-5
+- https://github.com/kda-community/testnet06 — testnet06 bootstrap tx
+- https://kda-chain.org — kda-chain.org
 
-- Protocol upgrades, ecosystem priorities, and treasury decisions are shaped by the people running and building the network.
-- Decisions are intended to be transparent, with visible proposals and broad participation.
+### Documentation
+- https://kda-chain.org/docs/ — community docs
+- https://pact-util-lib.readthedocs.io/en/beta_0.11/ — pact-util-lib
 
----
+### Network Endpoints
+- https://ca-1.chainweb-community.org — mainnet bootstrap ca-1
+- https://fr-1.chainweb-community.org — mainnet bootstrap fr-1
+- https://nl-1.chainweb-community.org — mainnet bootstrap nl-1
+- https://pl-1.chainweb-community.org — mainnet bootstrap pl-1
+- https://pl-2.chainweb-community.org — mainnet bootstrap pl-2
+- https://testnet06-1.chainweb-community.org — testnet06 bootstrap
 
-## Key Repositories
+### APIs
+- https://api.chainweb-community.org — mainnet01 API
+- https://api.testnet.chainweb-community.org — testnet06 API
 
-All active development is centered under kda-community. Follow, star, and contribute:
+### Explorers
+- https://denascan.com — DenaScan
+- https://explorer.chainweb-community.org/mainnet — explorer mainnet
+- https://explorer.chainweb-community.org/testnet — explorer testnet
+- https://explorer.eckowallet.com/ — Eckowallet
 
-- chainweb-node — https://github.com/kda-community/chainweb-node
-- pact-5 — https://github.com/kda-community/pact-5
-- devnet — https://github.com/kda-community/devnet
-- kadena-docs-new — https://github.com/kda-community/kadena-docs-new
-- KIPs — https://github.com/kda-community/KIPs
-- dao-voting — https://github.com/kda-community/dao-voting
+### Tools
+- https://github.com/kda-community/kda-tool — kda-tool
+- https://ide.forkme.fun/ — ForkMe Pact IDE
+- https://snapshots.chainweb-community.org — snapshots
+- https://tools.chainweb-community.org/ — community tools
 
-Additional community tooling:
-- pact-kit — https://github.com/Pact-Community-Organization/pact-kit
-- pact-util-lib — https://github.com/CryptoPascal31/pact-util-lib
+### Faucets
+- https://tools.chainweb-community.org/faucet/existing — mainnet faucet (existing account)
+- https://tools.chainweb-community.org/faucet/new — testnet06 faucet (new account)
 
----
+### Specs
+- https://api.chainweb-community.org/openapi/ — Chainweb OpenAPI spec
 
-## Get Building
+### Monitors
+- https://nodes.kadena.ws/ — network monitor
 
-Kadena is live, and the community is building the next chapter.
-
-Start here:
-1. Follow the code: https://github.com/kda-community
-2. Read the docs: https://kda-chain.org/docs/
-3. Explore the ecosystem: https://kda-chain.org/ecosystem.html
-4. Contribute: Fork, star, and open issues in the key repositories above.
-
----
-
-## Community Channels
-
-- GitHub — https://github.com/kda-community
-- X (Twitter) — https://x.com/KdaCed
-- Discord — https://discord.gg/T4mASjRaRr
-- Telegram — https://t.me/+3JzP9i19cM8wOWQ8
-- Medium — https://medium.com/@communitykadena
-- Bluesky — https://bsky.app/profile/kdacommunity.bsky.social
+> Full endpoint list: https://github.com/kadena-maintained-by-kda-community/releases/blob/main/CANONICAL_RESOURCES.md · Deprecated URLs: https://github.com/kadena-maintained-by-kda-community/releases/blob/main/DEPRECATED_RESOURCES.md · Commands: https://github.com/kadena-maintained-by-kda-community/releases/blob/main/COMMANDS.md
 
 ---
 
 ## Context
 
-Kadena LLC ceased operations in October 2025. Developers, miners, node operators, and community members stepped in to rebuild and govern the ecosystem as KDA Community Edition (KDA-CE). Maintainership of the network moved to the community at kda-community. This organization (kadena-maintained-by-kda-community) serves as a signpost and mirror — please direct all development, issues, and contributions to the official community organization linked above.
+Kadena LLC ceased operations in October 2025. Developers, miners, node operators, and community members stepped in to rebuild and govern the ecosystem as KDA Community Edition (KDA-CE). Maintainership of the network moved to the community at kda-community.
+
+This organization (kadena-maintained-by-kda-community) serves as a signpost and mirror — please direct all development, issues, and contributions to the official community organization linked at the top.
