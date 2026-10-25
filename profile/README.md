@@ -1,28 +1,31 @@
-# Kadena is live — maintained by kda-community
+# 📍 Kadena Chainweb Waypoint
 
-> [!WARNING]
-> **THIS IS NOT THE OFFICIAL KDA-COMMUNITY GITHUB.**
-> This is a waypoint organization. Our repositories are mostly exact, auto-synced mirrors provided for visibility and redundancy. 
-> 
-> 👉 **PLEASE CLICK THROUGH TO THE MAIN SITE OR USE THE OFFICIAL ORG FOR INFO:**
-> *   **Official GitHub:** https://github.com/kda-community
-> *   **Main Site / Docs:** https://kda-chain.org
-> 
-> *Use this organization for network status, mirror fallbacks, and cross-reference info.*
+> ⚠️ **Notice: Waypoint & Redundancy Hub**  
+> **THIS IS NOT THE OFFICIAL KDA-COMMUNITY GITHUB.** This is a waypoint organization. Our repositories are mostly exact, auto-synced mirrors provided for visibility and redundancy.  
+>  
+> 👉 **PLEASE CLICK THROUGH TO THE MAIN SITE OR USE THE OFFICIAL ORG FOR INFO:**  
+> - **Official GitHub:** https://github.com/kda-community  
+> - **Main Site / Docs:** https://kda-chain.org  
+>  
+> Use this organization for network status, mirror fallbacks, and cross-reference info.
 
-The active, community-maintained continuation of the Kadena Chainweb network is here.
+---
 
-Active development & core hub:
-https://github.com/kda-community
+### 🌐 Official Network Links
 
-Main community site — documentation & onboarding:
-https://kda-chain.org/docs/
+The active, community-maintained continuation of the Kadena Chainweb network is here:
 
-Ecosystem directory:
-https://kda-chain.org/ecosystem.html
+* **Active development & core hub:**  
+  https://github.com/kda-community
 
-Source of Truth registry (mirrored):
-https://github.com/kadena-maintained-by-kda-community/releases/tree/main/sot
+* **Main community site — documentation & onboarding:**  
+  https://kda-chain.org/docs/
+
+* **Ecosystem directory:**  
+  https://kda-chain.org/ecosystem.html
+
+* **Source of Truth registry (mirrored):**  
+  https://github.com/kadena-maintained-by-kda-community/releases/tree/main/sot
 
 ---
 
