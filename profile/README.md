@@ -27,6 +27,20 @@ The active, community-maintained continuation of the Kadena Chainweb network is 
 * **Source of Truth registry (mirrored):**  
   https://github.com/kadena-maintained-by-kda-community/releases/tree/main/sot
 
+  ### 💬 Community & Socials
+
+Connect with the active KDA community across our official channels:
+
+[![X / Twitter](https://img.shields.io/badge/X-@KdaCed-black?style=for-the-badge&logo=x)](https://x.com/KdaCed)
+[![Telegram](https://img.shields.io/badge/Telegram-KdaCommunityEdition-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/KdaCommunityEdition)
+[![Discord](https://img.shields.io/badge/Discord-KDA_Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/bxTwmPnr)
+[![Medium](https://img.shields.io/badge/Medium-@communitykadena-12100E?style=for-the-badge&logo=medium)](https://medium.com/@communitykadena)
+
+* **Medium Articles & Updates:** https://medium.com/@communitykadena
+* **X (Twitter):** https://x.com/KdaCed
+* **Telegram:** https://t.me/KdaCommunityEdition
+* **Discord:** https://discord.gg/bxTwmPnr
+
 ---
 
 ## Active Development & Rebuilding the Stack
