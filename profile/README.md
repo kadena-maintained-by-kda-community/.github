@@ -1,5 +1,15 @@
 # Kadena is live — maintained by kda-community
 
+> [!WARNING]
+> **THIS IS NOT THE OFFICIAL KDA-COMMUNITY GITHUB.**
+> This is a waypoint organization. Our repositories are mostly exact, auto-synced mirrors provided for visibility and redundancy. 
+> 
+> 👉 **PLEASE CLICK THROUGH TO THE MAIN SITE OR USE THE OFFICIAL ORG FOR INFO:**
+> *   **Official GitHub:** https://github.com/kda-community
+> *   **Main Site / Docs:** https://kda-chain.org
+> 
+> *Use this organization for network status, mirror fallbacks, and cross-reference info.*
+
 The active, community-maintained continuation of the Kadena Chainweb network is here.
 
 Active development & core hub:
