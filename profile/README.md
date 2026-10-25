@@ -27,7 +27,9 @@ The active, community-maintained continuation of the Kadena Chainweb network is 
 * **Source of Truth registry (mirrored):**  
   https://github.com/kadena-maintained-by-kda-community/releases/tree/main/sot
 
-  ### 💬 Community & Socials
+---
+
+### 💬 Community & Socials
 
 Connect with the active KDA community across our official channels:
 
@@ -40,7 +42,6 @@ Connect with the active KDA community across our official channels:
 * **X (Twitter):** https://x.com/KdaCed
 * **Telegram:** https://t.me/KdaCommunityEdition
 * **Discord:** https://discord.gg/bxTwmPnr
-
 ---
 
 ## Active Development & Rebuilding the Stack
