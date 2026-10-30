@@ -1,4 +1,4 @@
-Kadena Chainweb Waypoint
+# Kadena Chainweb Waypoint
 
 [![kda-community Stars](https://img.shields.io/github/stars/kda-community?style=social&label=Star%20kda-community)](https://github.com/kda-community)
 [![Waypoint Org Stars](https://img.shields.io/github/stars/kadena-maintained-by-kda-community?style=social&label=Star%20Waypoint%20Org)](https://github.com/kadena-maintained-by-kda-community)
