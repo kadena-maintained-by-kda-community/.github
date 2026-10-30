@@ -275,6 +275,6 @@ The registry is machine-readable and covers canonical URLs, deprecated URLs, and
 
 ## Context
 
-Kadena LLC ceased operations in October 2025. Developers, miners, node operators, and community members stepped in to rebuild and govern the ecosystem as KDA Community Edition (KDA-CE). Maintainership of the network moved to the community at kda-community.
+This organization (kadena-maintained-by-kda-community) serves as a signpost and mirror — please direct all development, issues, and contributions to the official community organization linked above.
 
-This organization (kadena-maintained-by-kda-community) serves as a signpost and mirror — please direct all development, issues, and contributions to the official community organization linked at the top.
+Maintainership of the network moved to the community at kda-community, where developers, miners, node operators, and community members stepped in to rebuild and govern the ecosystem as KDA Community Edition (KDA-CE) following Kadena LLC ceasing operations in October 2025.
